@@ -38,7 +38,7 @@ namespace WebApplication
             }
 
             app.UseStaticFiles();
-
+            //use Session
             app.UseSession();
             app.UseMvc(routes =>
             {

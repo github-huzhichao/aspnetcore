@@ -9,7 +9,7 @@
             "value": "southeastasia"
         },
         "containerURI": {
-            "value": "rampb/cloudweaver:v1"
+            "value": "rampb/cloudweaver:latest"
         },
         "osType": {
             "value": "Windows"
